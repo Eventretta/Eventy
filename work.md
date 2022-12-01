@@ -7,7 +7,4 @@ If i'm interested i might work on it for free, but else you will need to pay me 
 
 # Terms and Conditions
 
-## I have all the rights to refuse commissions before payment
-## If you are rude i will quit your commission without refund
-## I only start when i get paid
-## Rushing will result in the commission getting stopped without refund
+You can access terms & conditions [here](./commission/terms.pdf)
