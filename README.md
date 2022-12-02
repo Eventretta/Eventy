@@ -4,4 +4,12 @@ Hi! I'm Eventy, a guy whose passions are coding in HaxeFlixel and GDevelop. I'm 
 
 # Wanna work with me?
 
-I would love to! Check my [Working Requests wiki](./work.md)
+I would love to! Check my [Commissions wiki](./work.md)
+
+# What are your PFP?
+
+Here's the most important PFP i have:
+
+[Amaruq](./avatars/amaruq.gif)
+[Trullybug](./avatars/trullybug.png)
+[Raltyro (current)](./avatars/raltyro.jpg)
