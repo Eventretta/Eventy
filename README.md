@@ -13,3 +13,10 @@ Here's the most important PFP i have:
 [Amaruq](./avatars/amaruq.gif)
 [Trullybug](./avatars/trullybug.png)
 [Raltyro (current)](./avatars/raltyro.jpg)
+
+# What are you working on?
+
+[Vs Tom](https://gamebanana.com/mods/381638), 
+[Raltyro's fork of Pysch Engine (helped as contributor)](./assets/raltVideo.mp4),
+[Scratch n'Funk](https://gamebanana.com/wips/70891)
+[More](https://github.com/Eventretta)
