@@ -1,5 +1,5 @@
 # (ADVERTISEMENT)
-[![]("https://gamebanana.com/mods/embeddables/381638?type=large")](https://gamebanana.com/mods/381638)
+Check out VS Tom
 
 # Working with you
 
